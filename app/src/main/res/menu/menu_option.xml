@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Logout"
+        android:id="@+id/logout"/>
+    <item android:title="Profile"
+        android:id="@+id/userProfile"/>
+    <item android:id="@+id/purchasedSongs"
+        android:title="Purchased songs"/>
+    <item android:title="Your Anytime Playlist"
+        android:id="@+id/offlinePlaylist"/>
+<!--    <item android:id="@+id/fav"-->
+<!--        android:title="Favorites"/>-->
+</menu>
